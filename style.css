@@ -1,0 +1,25 @@
+td,
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+    cursor: not-allowed;
+}
+td {
+	background-color:grey;
+}
+
+.yellow {
+	background-color: yellow;
+}
+.blue{
+	background-color:blue;
+}
+.purple
+{
+	background-color:purple;
+}
+.orange{
+	background-color:orange;
+	color:green;
+}
+
